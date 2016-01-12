@@ -1,0 +1,95 @@
+.disabled {
+background-color: grey;
+}
+
+.red-player {
+background-color: red;
+}
+
+.blue-player {
+background-color: blue;
+}
+
+.classic {
+background-color: white;
+}
+
+.weapon{
+background-image:url(../img/weapon.png);
+background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
+}
+
+
+.weapon1{
+background-image:url(../img/weapon1.png);
+background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
+}
+
+
+.weapon2{
+  background-image:url(../img/weapon2.png);
+  background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
+}
+
+.weapon3{
+  background-image:url(../img/weapon3.png);
+  background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
+}
+
+.weapon4{
+  background-image:url(../img/weapon4.png);
+  background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
+}
+
+.movable, .selected-player{
+	background-color: #F2F5A9;
+border: 3px solid green;
+}
+
+.panel{
+ margin-left: 20px;
+ margin-top: 20px;
+ border: 1px solid black;
+ float: left;
+ width: 502px;
+ height: 365px;
+ padding: 20px 20px 20px 20px;
+}
+.infoBlue{
+	border: 1px solid blue;
+	float: left;
+	width: 240px;
+	margin-left: 20px;
+}
+.infoRed{
+	border: 1px solid red;
+	float: left;
+	width: 240px;
+	margin-left: 20px;
+}
+ul{
+	list-style-type:none;
+}
+h3 { color: #000000; font-family: 'Raleway',sans-serif; font-size: 20px; font-weight: 400; line-height: 36px; margin: 0 0 24px; text-align: center; }
+td{
+line-height: 10px;
+height: 50px;
+width: 50px;
+border: 1px solid black;
+}
+
+table{
+	float: left;
+  /*width: 30%;*/
+}
+
