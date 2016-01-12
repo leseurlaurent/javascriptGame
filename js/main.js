@@ -7,6 +7,6 @@ disableSquaresAction();
 placePayers();
 //on Place les armes
 placeWeapons();
-//On fait commencer le jeu avec le joueur "blue" (comme aux echecs, c'est tjs le blanc en premier)
-var mainPlayer = 'blue';
+//On fait commencer le jeu avec le joueur "red"
+var mainPlayer = 'red';
 initializeMove();
