@@ -1,1 +1,1 @@
-Jeu de plateau en JavaScript exclusivement
+Jeu de plateau en JavaScript
